@@ -1,8 +1,6 @@
 ![WilsonVincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilsonVincent&count_private=true&show_icons=true&theme=great-gatsby)
 
-![WilsonVincent'sTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonVincent&hide=javascript,html,css,ejs)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WilsonVincen&repo=wilsonvincent.github.io)
+![WilsonVincent'sTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonVincent&theme=great-gatsby&hide=javascript,html,css,ejs)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
