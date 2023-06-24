@@ -2,7 +2,7 @@
 
 ![WilsonVincent'sTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonVincent&hide=javascript,html,css,ejs)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WilsonVincen&repo=github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WilsonVincen&repo=wilsonvincent.github.io)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
