@@ -1,6 +1,8 @@
 # Hello World 👋
 
-![WilsonVincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilsonVincent&count_private=false&show_icons=true&theme=great-gatsby)
+<p align="center">
+  ![WilsonVincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilsonVincent&count_private=false&show_icons=true&theme=great-gatsby)
+</p>
 
 <p align="center">
 	<a href="https://wilsonvincent.github.io"><img src="https://img.shields.io/badge/blog%20pageview-brightgreen" alt="Blog"></a>
