@@ -1,7 +1,7 @@
 # Hello World 👋
 
 <p align="center">
-  ![WilsonVincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilsonVincent&count_private=false&show_icons=true&theme=great-gatsby)
+  <img src="https://github-readme-stats.vercel.app/api?username=WilsonVincent&count_private=false&show_icons=true&theme=great-gatsby" width="100%">
 </p>
 
 <p align="center">
