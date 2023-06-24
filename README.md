@@ -15,7 +15,7 @@
 
 
 ---
-<img align="right" alt="GIF" src="README.assets/pusheencode.gif" />
+<img align="right" alt="GIF" src="README.assets/pusheencode.gif" style="max-width: 80%;" />
 
 ### I'm Wilson Vincent
 
