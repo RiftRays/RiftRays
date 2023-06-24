@@ -7,5 +7,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![WilsonVincent](https://github-readme-stats.vercel.app/api?username=WilsonVincent&show_icons=true&theme=dark)
-[![WilsonVincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilsonVincent)](https://github.com/WilsonVincent/github-readme-stats)
+![WilsonVincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilsonVincent&count_private=true&show_icons=true&theme=dark)
