@@ -3,17 +3,16 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WilsonVincent&count_private=true&show_icons=true&theme=great-gatsby">
 </p>
-
 <p align="center">
-	<a href="https://wilsonvincent.github.io"><img src="https://img.shields.io/badge/blog%20pageview-brightgreen" alt="Blog"></a>
+	<a href="https://wilsonvincent.github.io"><img src="https://img.shields.io/badge/Welcome%20to%20my%20Blog-orange
+" alt="Blog"></a>
 	<a href="mailto:wilsonvincent0321@gmail.com"><img src="https://img.shields.io/badge/-wilsonvincent0321@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wilsonvincent0321@gmail.com"></a>
 </p>
+
 
 <p align="center">
   <img src="README.assets/giphy.gif" width="60"><em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </p>
-
-
 ---
 <img align="right" alt="GIF" src="README.assets/pusheencode.gif" />
 
