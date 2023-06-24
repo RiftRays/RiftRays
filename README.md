@@ -1,7 +1,7 @@
 # Hello World 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WilsonVincent&count_private=false&show_icons=true&theme=great-gatsby" hight="50%" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=WilsonVincent&count_private=true&show_icons=true&theme=great-gatsby" hight="50%" width="100%">
 </p>
 
 <p align="center">
