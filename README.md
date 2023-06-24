@@ -12,6 +12,8 @@
 <p align="center">
   <img src="README.assets/giphy.gif" width="60"><em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </p>
+
+
 ---
 <img align="right" alt="GIF" src="README.assets/pusheencode.gif" />
 
