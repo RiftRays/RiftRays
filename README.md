@@ -1,4 +1,4 @@
-# 👋 ![Hello World](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&width=200&lines=print('Hellow+world!')) 👋
+# Hello World 👋
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WilsonVincent&count_private=true&show_icons=true&theme=great-gatsby">
