@@ -15,14 +15,12 @@
 
 
 ---
-<img height="280" align="right" alt="GIF" src="README.assets/pusheencode.gif" />
+### Self Introduction (About Me)
 
-### I'm Wilson Vincent
-
-- 🔭 Freelancer
+- 🧑‍💻 A young freelance software development engineer 
 - 💬 Chat with me about anything in this universe by WilsonVincent0321@gmail.com
 - 🙋 
-- 🏆 
+- 🏆 Receive awards at the provincial level competition
 - 🤖️ 
 - 💡 
 - 🌱
@@ -31,16 +29,12 @@
 
 
 
-
-
-
-
 -----
-### 📝计划学习
+### 📝Planned Learning
 
-### 📚正在学习
+### 📚Currently Learning
 
-### 🗂️项目工程
+### 🗂️Project Engineering
 
 ### 🧑‍💻Languages and Tools
 
@@ -51,7 +45,6 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </p>
-
 <p align="center">
 	<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 	<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
@@ -68,6 +61,7 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 	<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
 </p>
+
 
 <p align="center">
 	<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
