@@ -19,15 +19,7 @@
 
 - 🧑‍💻 A young freelance software development engineer 
 - 💬 Chat with me about anything in this universe by <a href="mailto:wilsonvincent0321@gmail.com"><img src="https://img.shields.io/badge/-wilsonvincent0321@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wilsonvincent0321@gmail.com"></a>
-- 🙋 
 - 🏆 Receive awards at the provincial level competition
-- 🤖️ 
-- 💡 
-- 🌱
-- :star:
-- ⚡ 
-
-
 
 -----
 ### 📝Planned Learning
