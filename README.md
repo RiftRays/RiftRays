@@ -19,7 +19,8 @@
 
 - 🧑‍💻 A young freelance software development engineer 
 - 💬 Chat with me about anything in this universe by Email
-- 🏆 Web Provincial Competition
+- 🏆 Web Provincial Competition (Second Prize)
+- 🎓 Provincial Outstanding Graduates
 
 -----
 ### 📝 Planned Learning
