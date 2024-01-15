@@ -19,7 +19,7 @@
 
 - 🧑‍💻 A young freelance software development engineer 
 - 💬 Chat with me about anything in this universe by Email
-- 🏆 Receive awards at the provincial level competition
+- 🏆 Web Provincial Competition
 
 -----
 ### 📝 Planned Learning
