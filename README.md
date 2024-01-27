@@ -1,11 +1,11 @@
 # Hello World 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WilsonVincent&count_private=true&show_icons=true&theme=great-gatsby">
+  <img src="https://github-readme-stats.vercel.app/api?username=RiftRays&count_private=true&show_icons=true&theme=great-gatsby">
 </p>
 <p align="center">
-	<a href="https://wilsonvincent.github.io"> <img src="https://img.shields.io/badge/Welcome%20to%20my%20Blog-orange" alt="Blog"> </a>
-	<a href="mailto:wilsonvincent0321@gmail.com"> <img src="https://img.shields.io/badge/-wilsonvincent0321@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wilsonvincent0321@gmail.com"> </a>
+	<a href="https://riftrays@gmail.com.github.io"> <img src="https://img.shields.io/badge/Welcome%20to%20my%20Blog-orange" alt="Blog"> </a>
+	<a href="mailto:RiftRays@gmail.com"> <img src="https://img.shields.io/badge/-RiftRays@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:RiftRays@gmail.com"> </a>
 </p>
 
 
